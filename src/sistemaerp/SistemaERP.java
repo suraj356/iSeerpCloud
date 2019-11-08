@@ -6,4 +6,5 @@ public class SistemaERP {
         // TODO code application logic here
     }
     
+    String hola = "hola";
 }
